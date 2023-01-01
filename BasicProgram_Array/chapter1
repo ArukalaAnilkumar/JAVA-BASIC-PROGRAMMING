@@ -1,0 +1,23 @@
+Chapter I
+1.	Insert  & Display the below elements in the array (use both compile time & run time initialization)
+a.	139 , 12 , 34 , 5 , 566 , 7
+b.	‘c’ , ’3’  ,  ’(‘ ,  ’?’
+c.	“hello”, ”all”, ”good” , ”Morning” , ”453” ,  ”?<>|+_”
+d.	true , false , true , false , true , true 
+2.	Find the length of all the above arrays        --
+3.	Using for- each loop Display the above array    --
+4.	Find the length of all the above arrays without using method length
+5.	12 , 56 , 34 , 23 ,67 , 76 , 32 , 75 , 90 , 345
+a.	Print the above array in reverse order                               --
+b.	Divide the array into two equal halves                               --
+i.	Print the First half in reverse order and print the whole array      --
+ii.	Print the Second half in reverse order and print the whole array     --
+c.	Print only even indexed elements                         --
+d.	Print only odd indexed elements                          --
+e.	Print the elements which are divisible by 4              --
+f.	Print the indices which are divisible by 3               --
+6.	Swap the adjacent elements in the array                  --
+7.	Sort the array elements both in ascending and descending order    --
+8.	Divide the array into two equal halves                            --
+a.	First half in ascending order, second half in descending order  --
+9.	Sort the odd indexed arrays in ascending order and even indexed arrays in descending order    --
